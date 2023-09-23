@@ -1,2 +1,3 @@
 # Music-App-Clone
-This features a clone of a popular music streaming app.
+
+This features a clone of a popular music streaming app. 
